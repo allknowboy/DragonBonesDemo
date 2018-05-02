@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "57655cfa-95fb-47e6-9beb-a8657bd8eb9f",
+  "atlasJson": "{\"width\":256,\"height\":256,\"name\":\"fly\",\"imagePath\":\"fly_tex.png\",\"SubTexture\":[{\"width\":62,\"y\":74,\"height\":71,\"name\":\"wing_l\",\"x\":172},{\"width\":62,\"y\":1,\"height\":71,\"name\":\"wing_r\",\"x\":172},{\"width\":169,\"y\":1,\"height\":145,\"name\":\"body\",\"x\":1}]}",
+  "texture": "28a7f974-6cd0-42d2-b46a-0bf14b3e9005",
+  "subMetas": {}
+}
